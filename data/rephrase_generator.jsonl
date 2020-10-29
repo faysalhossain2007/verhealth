@@ -1,0 +1,1391 @@
+[
+  {
+    "skill": "exercise helper",
+    "next-response": "here's what i found:i born in 1st january, 2000 and i born in 1st january, 2000.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "weight check",
+    "next-response": "my description is a mole .",
+    "successful-interaction": "1",
+    "sentence": "hmm, i don't know that one.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "mutation fact",
+    "next-response": "y",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "mascot generator",
+    "next-response": "i found 4 things:ask daily medical fact remember my height is 10 feet, diet my height is 10 feet, and my height is 11 feet.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "white noise",
+    "next-response": "did i experience a fever lately ?",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "what am i",
+    "next-response": "my description is a mole .",
+    "successful-interaction": "1",
+    "sentence": "sorry, i don't know that one.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "five minute posture",
+    "next-response": "my description is a mole .",
+    "successful-interaction": "1",
+    "sentence": "sorry, i don't know that one.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "workout tracker",
+    "next-response": "i ' m sick yesterday .",
+    "successful-interaction": "1",
+    "sentence": "hmm, i don't know that.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "levothyroxine drug information",
+    "next-response": "i found 5 things:my identifying symbol is i have a mole in my face, tell dover trails store my identifying symbol is i have a mole in my face, and ask health log store my identifying symbol is i have a mole in my face.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "word pairs three",
+    "next-response": "i found 5 things:my identifying symbol is i have a mole in my face, tell dover trails store my identifying symbol is i have a mole in my face, and ask health log store my identifying symbol is i have a mole in my face.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "healthy tips",
+    "next-response": "i was in the crash .",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "habit tracker",
+    "next-response": "3/4 is 5 years old. its release date is september 26th 2014.",
+    "successful-interaction": "1",
+    "sentence": "sorry, i don't know that one.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "better heart",
+    "next-response": "vigil is 34",
+    "successful-interaction": "1",
+    "sentence": "hmm, i don't know that.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "quick fit workout",
+    "next-response": "this is what i found:i born in 1st january, 2000 and i born in 1st january, 2000.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "give me hope",
+    "successful-interaction": "0",
+    "sentence": "hmm, i don't know that.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "dover trails",
+    "next-response": "hmm, i'm not sure.",
+    "successful-interaction": "1",
+    "sentence": "hmm, i don't know that.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "breathing coach",
+    "next-response": "i took serious health from 2008 .",
+    "successful-interaction": "1",
+    "sentence": "sorry, i don't know how to handle that, but i can start the breathing exercise or give you more information. what would you like?",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "rise above",
+    "successful-interaction": "0",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "forest sounds",
+    "next-response": "i was in the crash .",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "best rain sounds",
+    "next-response": "sorry, i'm not sure.",
+    "successful-interaction": "1",
+    "sentence": "sorry, i don't know that one.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "leads health",
+    "next-response": "3/4 is 5 years old. its release date is september 26th 2014.",
+    "successful-interaction": "1",
+    "sentence": "sorry, i don't know that one.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "energy boosting tips",
+    "successful-interaction": "0",
+    "sentence": "sorry, i don't know that one.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "pace maker",
+    "next-response": "the noun 'symbol' is usually defined as something used for or regarded as representing something else; a material object representing something, often something immaterial; emblem, token, or sign. the verb 'symbol' is usually defined as to use symbols; symbolize.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "what pace",
+    "next-response": "i'm sorry to hear that.",
+    "successful-interaction": "1",
+    "sentence": "sorry i don't understand. please provide a valid goal. for example, you may ask the pace for 4 hour marathon.. what can i help you with?",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "good morning",
+    "next-response": "i ' m sick yesterday .",
+    "successful-interaction": "1",
+    "sentence": "hmm, i don't know that.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "office workout",
+    "next-response": "i ' m sick yesterday .",
+    "successful-interaction": "1",
+    "sentence": "oh, i do not have a poem about yesterday unfortunately.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "mount sinai",
+    "next-response": "i was in the crash .",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "squash facts",
+    "next-response": "i born in january",
+    "successful-interaction": "1",
+    "sentence": "sorry, i don't know how to handle that, but i can start the breathing exercise or give you more information. what would you like?",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "take infant temperature at armpit",
+    "next-response": "7 feet is 2.1 meters.",
+    "successful-interaction": "1",
+    "sentence": "hmm, i don't know that.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "marathon pacing calculator",
+    "next-response": "begin by saying: calculate pace, or, calculate time.",
+    "successful-interaction": "1",
+    "sentence": "sorry i don't understand. please provide a valid goal. for example, you may ask the pace for 4 hour marathon.. what can i help you with?",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "columbus marathon",
+    "next-response": "my description is a mole .",
+    "successful-interaction": "1",
+    "sentence": "hmm, i don't know that.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "stress free",
+    "next-response": "i ' m sorry today",
+    "successful-interaction": "1",
+    "sentence": "sorry i don't know about e try asking me another",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "a moment of ringtones",
+    "next-response": "i ' m sick yesterday .",
+    "successful-interaction": "1",
+    "sentence": "hmm, i don't know that.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "my workout music",
+    "next-response": "y",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "six pack abs",
+    "next-response": "7 feet is 2.1 meters.",
+    "successful-interaction": "1",
+    "sentence": "sorry, i don't know that.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "fit facts",
+    "next-response": "sorry, i\u2019m not sure about that.",
+    "successful-interaction": "1",
+    "sentence": "hmm, i don't know that.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "flu season",
+    "next-response": "7 feet is 2.1 meters.",
+    "successful-interaction": "1",
+    "sentence": "sorry, i don't know that.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "hit trainer",
+    "next-response": "i found 4 things:ask daily medical fact remember my height is 10 feet, diet my height is 10 feet, and my height is 11 feet.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "seven minute abs",
+    "next-response": "i was in the crash .",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "rain maker",
+    "next-response": "hmm, i'm not sure.",
+    "successful-interaction": "1",
+    "sentence": "i don't know 'last'. i play: rain",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "healthy life",
+    "next-response": "hmm, i'm not sure.",
+    "successful-interaction": "1",
+    "sentence": "hmm, i don't know that one.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "yoga studio",
+    "next-response": "sorry, i'm not sure.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "healthy food facts",
+    "next-response": "i found 5 things:my identifying symbol is i have a mole in my face, tell dover trails store my identifying symbol is i have a mole in my face, and ask health log store my identifying symbol is i have a mole in my face.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "be mindful",
+    "next-response": "my blood groups are a positive number",
+    "successful-interaction": "1",
+    "sentence": "sorry, i don't know that.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "happy teeth",
+    "next-response": "sorry, i\u2019m not sure about that.",
+    "successful-interaction": "1",
+    "sentence": "hmm, i don't know that.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "baby logs",
+    "next-response": "did i face the accident ?",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "renewing spirit",
+    "next-response": "i took serious health from 2008 .",
+    "successful-interaction": "1",
+    "sentence": "sorry, i don't know that one.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "river sound",
+    "next-response": "sorry, i'm not sure.",
+    "successful-interaction": "1",
+    "sentence": "hmm, i don't know that.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "ocean waves",
+    "next-response": "i found 4 things:ask daily medical fact remember my height is 10 feet, diet my height is 10 feet, and my height is 11 feet.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "kidney disease facts",
+    "next-response": "l",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "autism cure thirty days",
+    "next-response": "sorry, i'm not sure about that.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "healthy every day",
+    "next-response": "i found 4 things:ask daily medical fact remember my height is 10 feet, diet my height is 10 feet, and my height is 11 feet.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "happy place",
+    "next-response": "y",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "depression facts",
+    "next-response": "i found 4 things:ask daily medical fact remember my height is 10 feet, diet my height is 10 feet, and my height is 11 feet.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "oy vey",
+    "next-response": "3/4 is 5 years old. its release date is september 26th 2014.",
+    "successful-interaction": "1",
+    "sentence": "sorry, i don't know that one.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "kidney disease facts",
+    "next-response": "height is measure of vertical distance, either vertical extent or vertical position. for example, \"the height of that building is 50 m\" or \"the height of an airplane is about 10,000 m\". when the term is used to describe vertical position from sea level, height is more often called altitude. furthermore, if the point is attached to the earth, then altitude is called elevation.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "let us stretch",
+    "next-response": "hmm, i'm not sure.",
+    "successful-interaction": "1",
+    "sentence": "hmm, i don't know that one.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "breast cancer facts",
+    "next-response": "i ' m sick yesterday .",
+    "successful-interaction": "1",
+    "sentence": "hmm, i don't know that one.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "a moment of air traffic control",
+    "next-response": "l",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "rheumatoid arthritis",
+    "next-response": "y",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "age smart",
+    "successful-interaction": "0",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "new york running calendar",
+    "next-response": "yes",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "walk more",
+    "next-response": "7 feet is 2.1 meters.",
+    "successful-interaction": "1",
+    "sentence": "hmm, i don't know that one.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "ocean waves",
+    "next-response": "this is what i found:i born in 1st january, 2000 and i born in 1st january, 2000.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "dexi explorer",
+    "next-response": "i was in the crash .",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "carley",
+    "next-response": "i took serious health from 2008 .",
+    "successful-interaction": "1",
+    "sentence": "hmm, i don't know that one.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "health fact",
+    "next-response": "did i experience a fever lately ?",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "virtual nurse",
+    "next-response": "sorry, i'm not sure about that.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "vaccine buddy",
+    "next-response": "here's something i found on the web. according to cosmopolitan.com: in november, carrie underwood was walking her dogs in her neighborhood when she tripped and fell, hitting her face in an accident that resulted in 40 stitches.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "magic sounds",
+    "next-response": "i was in the crash .",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "my workout music",
+    "next-response": "hmm, i'm not sure.",
+    "successful-interaction": "1",
+    "sentence": "hmm, i don't know that.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "health fact",
+    "next-response": "i was in the crash .",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "weight check",
+    "next-response": "this is what i found:i born in 1st january, 2000 and i born in 1st january, 2000.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "blizzard storm sounds",
+    "next-response": "sorry, i\u2019m not sure about that.",
+    "successful-interaction": "1",
+    "sentence": "hmm, i don't know that one.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "workout cardio music",
+    "next-response": "my blood groups are a positive number",
+    "successful-interaction": "1",
+    "sentence": "hmm, i don't know that.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "sleep right",
+    "next-response": "sorry, i'm not sure.",
+    "successful-interaction": "1",
+    "sentence": "sorry, i don't know that one.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "medical facts",
+    "next-response": "l",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "shush my baby",
+    "successful-interaction": "0",
+    "sentence": "sorry, i don't know that, but i do have a skill you might like. it's called shush my baby. wanna try it?",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "white noise",
+    "next-response": "yes",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "better heart",
+    "next-response": "this is what i found:i born in 1st january, 2000 and i born in 1st january, 2000.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "symptom checker",
+    "next-response": "my description is a mole .",
+    "successful-interaction": "1",
+    "sentence": "sorry, i don't know that.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "healthy living",
+    "next-response": "i took serious health from 2008 .",
+    "successful-interaction": "1",
+    "sentence": "sorry, i cannot understand that mood. please try again by saying your mood like i am happy or i am sad",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "a moment of stream",
+    "next-response": "did i experience a fever lately ?",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "aromatherapy",
+    "next-response": "i ' m sick yesterday .",
+    "successful-interaction": "1",
+    "sentence": "sorry, i don't know that.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "sunrise compliments",
+    "next-response": "did i experience a fever lately ?",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "sagacity",
+    "next-response": "sorry, i\u2019m not sure about that.",
+    "successful-interaction": "1",
+    "sentence": "sorry, i don't know that.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "cuida demo",
+    "next-response": "7 feet is 2.1 meters.",
+    "successful-interaction": "1",
+    "sentence": "sorry, i don't know that one.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "energy boosting tips",
+    "next-response": "i took serious health from 2008 .",
+    "successful-interaction": "1",
+    "sentence": "hmm, i don't know that one.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "sagacity",
+    "next-response": "y",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "story memory",
+    "next-response": "my description is a mole .",
+    "successful-interaction": "1",
+    "sentence": "sorry, i don't know that.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "intermittent fasting",
+    "next-response": "i ' m sorry today",
+    "successful-interaction": "1",
+    "sentence": "i don't know what you mean. say the number or title of a theme. please try, start number one.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "awesome hair tips",
+    "next-response": "y",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "numbers forward three",
+    "next-response": "did i experience fever lately ?",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "breathing coach",
+    "next-response": "i ' m sick yesterday .",
+    "successful-interaction": "1",
+    "sentence": "hmm, i don't know that one.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "aikido thoughts",
+    "next-response": "y",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "vegan facts",
+    "next-response": "my blood groups are a positive number",
+    "successful-interaction": "1",
+    "sentence": "hmm, i don't know that one.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "daily goal",
+    "next-response": "sorry, i\u2019m not sure about that.",
+    "successful-interaction": "1",
+    "sentence": "hmm, i don't know that one.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "propeller",
+    "next-response": "sorry, i'm not sure.",
+    "successful-interaction": "1",
+    "sentence": "sorry, i don't know that.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "my gratitude journal",
+    "next-response": "i have a high blood pressure .",
+    "successful-interaction": "1",
+    "sentence": "i don't know what you mean. say the number or title of a theme. please try, start number one.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "morning workout",
+    "next-response": "this is what i found:i born in 1st january, 2000 and i born in 1st january, 2000.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "rain maker",
+    "next-response": "l",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "health facts",
+    "next-response": "sorry, i\u2019m not sure about that.",
+    "successful-interaction": "1",
+    "sentence": "hmm, i don't know that.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "motivate me",
+    "next-response": "sorry, i'm not sure.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "fitness helper",
+    "next-response": "sorry, i\u2019m not sure about that.",
+    "successful-interaction": "1",
+    "sentence": "sorry, i don't know that.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "mystical stream sounds",
+    "next-response": "sorry, i\u2019m not sure about that.",
+    "successful-interaction": "1",
+    "sentence": "hmm, i don't know that one.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "kenpo buddy",
+    "next-response": "150 pounds is 68 kilograms.",
+    "successful-interaction": "1",
+    "sentence": "i'm sorry, i don't know that technique.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "eyeshadow look picker",
+    "next-response": "sorry, i'm not sure.",
+    "successful-interaction": "1",
+    "sentence": "hmm, i don't know that one.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "daily renounce practice",
+    "next-response": "this is what i found:i born in 1st january, 2000 and i born in 1st january, 2000.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "nutrient facts",
+    "next-response": "l",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "best all natural skincare solutions",
+    "next-response": "7 feet is 2.1 meters.",
+    "successful-interaction": "1",
+    "sentence": "hmm, i don't know that one.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "mood booster",
+    "successful-interaction": "0",
+    "sentence": "sorry, i don't know that, but i do have a skill you might like. it's called feel better. wanna try it?",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "ohio health",
+    "next-response": "this is what i found:i born in 1st january, 2000 and i born in 1st january, 2000.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "fitness logger",
+    "next-response": "l",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "lifelink",
+    "next-response": "i took serious health from 2008 .",
+    "successful-interaction": "1",
+    "sentence": "sorry, i don't know that.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "chest day",
+    "next-response": "i found 4 things:ask daily medical fact remember my height is 10 feet, diet my height is 10 feet, and my height is 11 feet.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "positive actions",
+    "next-response": "my description is a mole .",
+    "successful-interaction": "1",
+    "sentence": "hmm, i don't know that one.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "kenpo buddy",
+    "next-response": "what is my history ?",
+    "successful-interaction": "1",
+    "sentence": "i'm sorry, i don't know that technique.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "reassure me",
+    "next-response": "with a premium subscription, you can get even more sounds and features! just say \"membership\" to learn more! what would you like to do?",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "patanjali products",
+    "next-response": "3/4 is 5 years old. its release date is september 26th 2014.",
+    "successful-interaction": "1",
+    "sentence": "sorry, i don't know that.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "numbers forward three",
+    "next-response": "i am weightless, like a cloud. wait a minute, clouds actually weigh a lot! so that's not quite right. let's just say i'm more sass than mass.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "better every day",
+    "next-response": "this is what i found:i born in 1st january, 2000 and i born in 1st january, 2000.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "my health coach",
+    "next-response": "did i experience a fever lately ?",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "gym guide",
+    "next-response": "i found 4 things:my height is 11 feet, ask daily medical fact remember my height is 10 feet, and diet my height is 10 feet.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "hair fall",
+    "next-response": "i found 4 things:ask daily medical fact remember my height is 10 feet, diet my height is 10 feet, and my height is 11 feet.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "healthy wealthy wise",
+    "next-response": "l",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "memorial express care",
+    "next-response": "my description is a mole .",
+    "successful-interaction": "1",
+    "sentence": "hmm, i don't know that.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "smart cap",
+    "next-response": "my blood groups are a positive number",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "why quit",
+    "next-response": "7 feet is 2.1 meters.",
+    "successful-interaction": "1",
+    "sentence": "sorry, i don't know that.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "pregnancy food guide",
+    "next-response": "3/4 is 5 years old. its release date is september 26th 2014.",
+    "successful-interaction": "1",
+    "sentence": "hmm, i don't know that.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "glass counter",
+    "next-response": "i found 4 things:ask daily medical fact remember my height is 10 feet, diet my height is 10 feet, and my height is 11 feet.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "numbers forward one",
+    "next-response": "i found 4 things:ask daily medical fact remember my height is 10 feet, diet my height is 10 feet, and my height is 11 feet.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "my caretaker",
+    "next-response": "sorry, i'm not sure.",
+    "successful-interaction": "1",
+    "sentence": "sorry, i don't know that.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "j. s. j. wizard",
+    "next-response": "y",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "teach me healthy eating",
+    "next-response": "7 feet is 2.1 meters.",
+    "successful-interaction": "1",
+    "sentence": "hmm, i don't know that.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "a moment of birds",
+    "next-response": "sorry, i\u2019m not sure about that.",
+    "successful-interaction": "1",
+    "sentence": "hmm, i don't know that one.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "doctor quiz",
+    "next-response": "hmm, i'm not sure.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "health fact",
+    "next-response": "hmm, i found a few skills that might help.",
+    "successful-interaction": "1",
+    "sentence": "hmm, i don't know that.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "renewing spirit",
+    "next-response": "here's what i found:i born in 1st january, 2000 and i born in 1st january, 2000.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "nutrition info",
+    "next-response": "7 feet is 2.1 meters.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "health fact",
+    "next-response": "l",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "brookdale pool",
+    "next-response": "hmm, i have a few skills that can help.",
+    "successful-interaction": "1",
+    "sentence": "sorry, i don't know that.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "newbie log",
+    "next-response": "my description is a mole .",
+    "successful-interaction": "1",
+    "sentence": "hmm, i don't know that one.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "my weight loss coach",
+    "next-response": "what are i the blood ?",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "a moment of ringtones",
+    "next-response": "i took serious health from 2008 .",
+    "successful-interaction": "1",
+    "sentence": "sorry, i don't know that.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "fitness facts",
+    "next-response": "height is measure of vertical distance, either vertical extent or vertical position. for example, \"the height of that building is 50 m\" or \"the height of an airplane is about 10,000 m\". when the term is used to describe vertical position from sea level, height is more often called altitude. furthermore, if the point is attached to the earth, then altitude is called elevation.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "sleep rhythms",
+    "next-response": "my description is a mole .",
+    "successful-interaction": "1",
+    "sentence": "sorry, i don't know that.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "naya guru",
+    "next-response": "sorry, i'm not sure.",
+    "successful-interaction": "1",
+    "sentence": "hmm, i don't know that.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "a moment of tiki",
+    "next-response": "y",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "my dermatologist",
+    "next-response": "y",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "my willpower",
+    "next-response": "my description is a mole .",
+    "successful-interaction": "1",
+    "sentence": "hmm, i don't know that.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "food additive",
+    "next-response": "my blood groups are a positive number",
+    "successful-interaction": "1",
+    "sentence": "sorry, i don't know that.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "cholestrol facts",
+    "next-response": "sorry, i\u2019m not sure about that.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "lifehouse tonics",
+    "next-response": "here's what i found:i born in 1st january, 2000 and i born in 1st january, 2000.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "yoga guru",
+    "next-response": "i ' m sick yesterday .",
+    "successful-interaction": "1",
+    "sentence": "sorry, i don't know that one.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "yoga lifestyle",
+    "next-response": "3/4 is 5 years old. its release date is september 26th 2014.",
+    "successful-interaction": "1",
+    "sentence": "sorry, i don't know that, but i do have a skill you might like. it's called softkitty. wanna try it?",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "acupuncture points",
+    "next-response": "l",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "food facts",
+    "next-response": "did i experience a fever lately ?",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "baby tracker",
+    "next-response": "i was in the crash .",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "mellow cat",
+    "next-response": "7 feet is 2.1 meters.",
+    "successful-interaction": "1",
+    "sentence": "sorry, i don't know that one.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "cardiology assistant",
+    "next-response": "my description is a mole .",
+    "successful-interaction": "1",
+    "sentence": "i don't know the term mole",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "baby feeder",
+    "next-response": "i was in the crash .",
+    "successful-interaction": "1",
+    "sentence": "i could not find the city 2013 in my database. that is probably my fault. i am working on expanding my database, but it is limited to the largest airports right now. you might try using the airports eye kay oh identifier instead. please try again. to get the mee-tar say get, followed by a us or uk city name, or three or four letter identifier using eye kay oh phonetics. to get the forecast, say get forecast followed by the city, or three or four letter phonetic identifier.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "peaceful train sounds",
+    "next-response": "hmm, i'm not sure.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "anxiety show",
+    "next-response": "7 feet is 2.1 meters.",
+    "successful-interaction": "1",
+    "sentence": "hmm, i don't know that one.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "deck of cards workout",
+    "next-response": "sorry, i'm not sure.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "pill identifier",
+    "next-response": "3/4 is 5 years old. its release date is september 26th 2014.",
+    "successful-interaction": "1",
+    "sentence": "hmm, i don't know that one.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "running facts",
+    "next-response": "7 feet is 2.1 meters.",
+    "successful-interaction": "1",
+    "sentence": "sorry, i don't know that one.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "health tips",
+    "next-response": "7 feet is 2.1 meters.",
+    "successful-interaction": "1",
+    "sentence": "sorry, i don't know that.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "cosmetics facts",
+    "next-response": "hmm, i'm not sure.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "flight tracker",
+    "next-response": "l",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "mind stillness",
+    "next-response": "did i experience a fever lately ?",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "make me smile",
+    "next-response": "do i have a blood pressure ?",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "natural archive",
+    "next-response": "y",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "a moment of partying",
+    "next-response": "i found 4 things:ask daily medical fact remember my height is 10 feet, diet my height is 10 feet, and my height is 11 feet.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "ocean sounds",
+    "next-response": "here's what i found:i born in 1st january, 2000 and i born in 1st january, 2000.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "let's exercise",
+    "next-response": "7 feet is 2.1 meters.",
+    "successful-interaction": "1",
+    "sentence": "hmm, i don't know that one.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "mood track",
+    "next-response": "sorry, i\u2019m not sure about that.",
+    "successful-interaction": "1",
+    "sentence": "sorry, i don't know that.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "my fitness trainer",
+    "next-response": "l",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "relaxing beach nature music",
+    "next-response": "l",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "my blue",
+    "next-response": "sorry, i'm not sure.",
+    "successful-interaction": "1",
+    "sentence": "hmm, i don't know that one.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "home care",
+    "next-response": "here's what i found:i born in 1st january, 2000 and i born in 1st january, 2000.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "boat beacon",
+    "next-response": "i have a high blood pressure .",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "my workouts",
+    "next-response": "i was in the crash .",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "triangle m. t. b.",
+    "next-response": "here's what i found:i born in 1st january, 2000 and i born in 1st january, 2000.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "gym tracker",
+    "next-response": "i was in the crash .",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "pregnancy journey",
+    "next-response": "i am weightless, like a cloud. wait a minute, clouds actually weigh a lot! so that's not quite right. let's just say i'm more sass than mass.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "save my health desk exercises",
+    "successful-interaction": "0",
+    "sentence": "sorry, i don't know that.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "rise above",
+    "successful-interaction": "0",
+    "sentence": "sorry, i don't know that one.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "give a wellbeing tip",
+    "next-response": "hmm, i don't know that.",
+    "successful-interaction": "0",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "lifehouse tonics",
+    "successful-interaction": "0",
+    "sentence": "i don't know what you mean. say the number or title of a theme. please try, start number one.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "reassure me",
+    "successful-interaction": "0",
+    "sentence": "hmm, i don't know that.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "rain on a tin roof",
+    "next-response": "i was in the crash .",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "yoga guru",
+    "next-response": "here's what i found:i born in 1st january, 2000 and i born in 1st january, 2000.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "body facts",
+    "next-response": "my blood groups are a positive number",
+    "successful-interaction": "1",
+    "sentence": "hmm, i don't know that.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "toothbrush timer",
+    "next-response": "i'm sorry, i did not understand. what time would you like to wake up?",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "my blue",
+    "next-response": "here's something i found on the web. according to wikipedia.org: when i go is a 1998 album by american folk duo dave carter and tracy grammer.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "novant health",
+    "next-response": "7 feet is 2.1 meters.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "my dentist",
+    "successful-interaction": "0",
+    "sentence": "hmm, i don't know that one.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "fitness guru",
+    "next-response": "i found 4 things:ask daily medical fact remember my height is 10 feet, diet my height is 10 feet, and my height is 11 feet.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "how much salt",
+    "next-response": "3/4 is 5 years old. its release date is september 26th 2014.",
+    "successful-interaction": "1",
+    "sentence": "hmm, i don't know that one.",
+    "command_type": "unrecognize-message"
+  },
+  {
+    "skill": "m. s. awareness",
+    "next-response": "here's what i found:i born in 1st january, 2000 and i born in 1st january, 2000.",
+    "successful-interaction": "1",
+    "sentence": "<audio only response>",
+    "command_type": "unrecognize-message"
+  }
+]
