@@ -364,9 +364,6 @@ def login_without_email(driver, test_url):
 
         password.send_keys(AMAZON_PASSWORD)
 
-        # email.send_keys('hanghu@vt.edu')
-        # password.send_keys('Timebeginner1!')
-
         submit.click()
         # driver.save_screenshot('screen.png')
         time.sleep(1)
@@ -390,8 +387,6 @@ def login(driver, test_url):
         email.send_keys(AMAZON_USERNAME)
         password.send_keys(AMAZON_PASSWORD)
 
-        # email.send_keys('hanghu@vt.edu')
-        # password.send_keys('Timebeginner1!')
 
 
         submit.click()
