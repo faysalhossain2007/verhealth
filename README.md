@@ -2,7 +2,7 @@
 You can use `interact.py` to automatically communicate with the voice applications.
 
 
-#Citing VerHealth
+# Citing VerHealth
 
 if you use our interaction tool to communicate with Voice applications, please cite 
 
